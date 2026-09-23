@@ -1,4 +1,5 @@
 arize-phoenix
+langchain
 openinference-instrumentation-langchain   
 langchain-groq
 langchain_community
