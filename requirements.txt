@@ -5,7 +5,10 @@ langchain-groq
 langchain_community
 langchain_chroma
 langchain_huggingface
+langchain-google-vertexai
 beautifulsoup4
 sentence-transformers
 ragas
 datasets
+Pillow
+nest-asyncio
